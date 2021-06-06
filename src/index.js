@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 
 import { Container } from '@material-ui/core';
 import { Grid } from '@material-ui/core';
